@@ -1,0 +1,9 @@
+Program start
+
+input sellingPrice
+input buyingPrice
+
+if sellingPrice > buyingPrice
+    display 'You have profit in trading of this item'
+else
+    display 'You don't have profit in trading of this item'
